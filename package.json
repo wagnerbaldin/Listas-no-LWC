@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/wagnerbaldin.lwc-kzmohyxv",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve Ud5tAdhayYjY7VsekiWf --open"
+  }
+}
